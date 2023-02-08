@@ -63,7 +63,7 @@ Bergabung [`Read Discussion`](https://github.com/BOTCAHX/RTXZY-MD/discussions/46
 [`Panel Server`](https://chat.whatsapp.com/CmzVZLZl7xL2TNtd9dUvPc)
 
 ## Join Group Diskusi
-[![BOT DISCUSSION GROUP](https://img.shields.io/badge/WhatsApp%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=red)](https://chat.whatsapp.com/D6BZVRSymWaFU28t2lxaO0) [![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FBOTCAHX%2FRTXZY-MD.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FBOTCAHX%2FRTXZY-MD?ref=badge_shield)
+[![BOT DISCUSSION GROUP](https://img.shields.io/badge/WhatsApp%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=red)](https://chat.whatsapp.com/D6BZVRSymWaFU28t2lxaO0) [![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FKasanstore7%2FX-BOTZ.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FKasanstore7%2FX-BOTZ?ref=badge_shield)
 
 
 [![ALL BOT WHATSAPP](https://img.shields.io/badge/WhatsApp%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=red)](https://chat.whatsapp.com/KTmU4Hoj437BX4fWpXTnpF)
@@ -78,15 +78,15 @@ Bergabung [`Read Discussion`](https://github.com/BOTCAHX/RTXZY-MD/discussions/46
 > pkg install bash
 > pkg install ffmpeg
 > pkg install libwebp
-> git clone  https://github.com/BOTCAHX/RTXZY-MD
-> cd RTXZY-MD
+> git clone  https://github.com/Kasanstore7/X-BOTZ
+> cd X-BOTZ
 > npm i
 > node index.js
 
 ## untuk Sdcard (File yang Sudah Di Download)
 > cd /sdcard
-> cp -r RTXZY-MD $HOME
-> cd RTXZY-MD
+> cp -r X-BOTZ $HOME
+> cd X-BOTZ
 > npm i
 > node index.js
 ```
@@ -95,7 +95,7 @@ Bergabung [`Read Discussion`](https://github.com/BOTCAHX/RTXZY-MD/discussions/46
 
 Simple WhatsApp Bot
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/BOTCAHX/RTXZY-MD)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Kasanstore7/X-BOTZ)
 
 ```bash
 Login with your github
@@ -110,8 +110,7 @@ Choose your repo
 * Unduh & Instal ImageMagick [`Klik Disini`](https://imagemagick.org/script/download.php)
 
 ```bash
-git clone https://github.com/BOTCAHX/RTXZY-MD
-cd RTXZY-MD
+git clone https://github.com/Kasanstore7/X-BOTZ
 npm i
 npm start
 ```
@@ -207,20 +206,20 @@ conn.logger.level = 'debug'
 
 **All Contributors**,
 
-[`Visit`](https://github.com/BOTCAHX/RTXZY-MD/graphs/contributors)
+[`Visit`](https://github.com/Kasanstore7/X-BOTZ/graphs/contributors)
 
 ### Contact Person
 
- [`AlyaXzy`](https://wa.me/6289505165400)
+ [`OWN X-BOTZ`](https://wa.me/6285641142178)
 
  [`BOTCAHX`](https://wa.me/6282221792667)
 
 ##### All Contributors
-<a href="https://github.com/BOTCAHX"><img src="https://github.com/BOTCAHX.png?size=100" width="100" height="100"></a> | [![Alya Putri](https://github.com/AlyaaXd.png?size=100)](https://github.com/AlyaaXd) 
+<a href="https://github.com/BOTCAHX"><img src="https://github.com/BOTCAHX.png?size=100" width="100" height="100"></a> | [![Alya Khasan](https://github.com/Kasanstore7.png?size=100)](https://github.com/Kasanstore7) 
 ---|---
-[Tio](https://github.com/BOTCAHX)  | [Alya putri](https://github.com/AlyaaXd)
+[Tio](https://github.com/BOTCAHX)  | [Khasan](https://github.com/Kasanstore7)
 Creator | Creator |
 ---|---
-<a href="https://github.com/adiwajshing"><img src="https://github.com/adiwajshing.png?size=100" width="100" height="100"></a> | [![caf](http://github.com/CAF-ID.png?size=100)](http://github.comCAF-ID) 
-[Adiwajshing](https://github.com/adiwajshing) | [caf](https://github.com/CAF-ID)
-Owner of Baileys | Sepuh |
+<a href="https://github.com/adiwajshing"><img src="https://github.com/adiwajshing.png?size=100" width="100" height="100"></a> | 
+[Adiwajshing](https://github.com/adiwajshing) | 
+Owner of Baileys | 
